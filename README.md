@@ -7,6 +7,9 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/7c38c688be7db1a3149a4f46ff62ea37/66b7195ce259c178-b3/s2048x3072/e7f7f286107a5db502688766c6a1cf2ed6251d4f.pnj" width="300" />
   <img src="https://64.media.tumblr.com/aa29f673c088bebeebe237d792f32014/852a4edda8e574f4-a8/s540x810/367481632a4884597d1297ea4bd06254ade80a22.jpg" width="300" />
+  <img src="https://i.imgur.com/1H7pmMz.jpeg" width="300" />
+  <img src="https://i.imgur.com/2w3WQFX.jpeg" width="300" />
+  </p>
   </p>
  <p align="center" style="font-size:14px;"> Some of my art! </p>
  <h3 align="center">My fandoms:</h3>

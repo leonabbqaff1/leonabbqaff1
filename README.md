@@ -1,7 +1,6 @@
 <h1 align="center">welcome! im leona :)</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=Nuclear+medicine+student;Gamer+and+artist" alt="Typing SVG" /> </p>
 <p align="center">
   <a href="https://gladiatorialsouls.tumblr.com/"><img src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white" /></a>
-  <a href="https://discord.com/users/sablewards"><img src="https://img.shields.io/badge/sablewards-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <p align="center" style="font-size:14px;"> Hey! my name is <b>leona</b>. You probably got this profile from ponytown so please check my fandoms! </p>
   <p align="center" style="font-size:14px;"> im <b>always open for c + h</b> but im <b>afk</b> most of the time :) </p>
   <p align="center" style="font-size:14px;"> if i dont answer im <b>not ignoring!</b> im probably playing or drawing </p>

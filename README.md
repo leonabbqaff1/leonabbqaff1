@@ -26,7 +26,15 @@
   </p>
   <p align="center" style="font-size:14px;"> <a href="https://gladiatorialsouls.tumblr.com/"><img src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white" /></a>
  </p>
- 
+ <h2 align="center">
+  Some of my fav ponies!
+</h2>
+ <p align="center" style="font-size:14px;"> 
+   This are my ponies! some of them are pretty old and are being or are already reworked :) all original and made by me!
+  </p>
+   <p align="center">
+     <img src="https://i.imgur.com/TbErdKM.png" width="800" />
+     </p>
 <h3 align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/sparkling-heart_1f496.png" width="20" />
   Thanks for reading!

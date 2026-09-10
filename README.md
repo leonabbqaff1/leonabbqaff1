@@ -19,6 +19,8 @@
   <img src="https://64.media.tumblr.com/aa29f673c088bebeebe237d792f32014/852a4edda8e574f4-a8/s540x810/367481632a4884597d1297ea4bd06254ade80a22.jpg" width="300" />
   <img src="https://i.imgur.com/1H7pmMz.jpeg" width="300" />
   <img src="https://i.imgur.com/2w3WQFX.jpeg" width="300" />
+  <img src="https://i.imgur.com/XWpDkVJ.png" width="300" />
+  <img src="https://i.imgur.com/D476rDJ.png" width="300" />
   </p>
  <p align="center" style="font-size:14px;"> 
    Some of my art! i usually only post on tumblr and pinterest! using the same pseudonym leona :) 

@@ -22,8 +22,9 @@
   <img src="https://64.media.tumblr.com/aa29f673c088bebeebe237d792f32014/852a4edda8e574f4-a8/s540x810/367481632a4884597d1297ea4bd06254ade80a22.jpg" width="300" />
   </p>
  <p align="center" style="font-size:14px;"> 
-   Some of my art! i usually only post on tumblr and pinterest! using the same pseudonym leona :) 
-  <a href="https://gladiatorialsouls.tumblr.com/"><img src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white" /></a>
+   Some of my art! i usually only post on tumblr and pinterest! using the same pseudonym leona :)
+  </p>
+  <p align="center" style="font-size:14px;"> <a href="https://gladiatorialsouls.tumblr.com/"><img src="https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white" /></a>
  </p>
  
 <h3 align="center">
